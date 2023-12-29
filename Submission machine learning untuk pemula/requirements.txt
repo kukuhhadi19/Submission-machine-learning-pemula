@@ -1,0 +1,8 @@
+numpy
+matplotlib
+scipy
+itertools
+zipfile,os
+cv2
+split-folders
+splitfolders
